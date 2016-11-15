@@ -32,10 +32,10 @@ canonical: true
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  #categories: /categories
-  #about: /about
+  categories: /categories
+  about: /about
   archives: /archives
-  tags: /tags
+  #tags: /tags
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -148,7 +148,7 @@ social_icons:
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
-#avatar:
+avatar: /uploads/alex-alice.png
 
 
 # Table Of Contents in the Sidebar
