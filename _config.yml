@@ -254,7 +254,7 @@ mathjax:
 #duoshuo_shortname:
 
 # Disqus
-#disqus_shortname:
+disqus_shortname: post-lxd-me
 
 # Hypercomments
 #hypercomments_id:
@@ -280,7 +280,7 @@ mathjax:
 
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-53165668-1
 
 # CNZZ count
 #cnzz_siteid:
